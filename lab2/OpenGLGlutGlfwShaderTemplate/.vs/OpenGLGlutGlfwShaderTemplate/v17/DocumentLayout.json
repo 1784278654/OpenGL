@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-9-RotatingTriangle-GPU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-9-RotatingTriangle-GPU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-7-TranslatingTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-7-TranslatingTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-6-DynamicTriangles-mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-6-DynamicTriangles-mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-5-Tetrahedron2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-5-Tetrahedron2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-3-Sierpenski3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-3-Sierpenski3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-2-Sierpenski2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-2-Sierpenski2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-1-Triangles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\week2-1-Triangles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "week2-9-RotatingTriangle-GPU.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-9-RotatingTriangle-GPU.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-9-RotatingTriangle-GPU.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-9-RotatingTriangle-GPU.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-9-RotatingTriangle-GPU.cpp",
+              "ViewState": "AgIAAJEAAAAAAAAAAIAwwLMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:49:55.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "week2-7-TranslatingTriangle.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-7-TranslatingTriangle.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-7-TranslatingTriangle.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-7-TranslatingTriangle.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-7-TranslatingTriangle.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAIAwwHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:26:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "week2-6-DynamicTriangles-mouse.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-6-DynamicTriangles-mouse.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-6-DynamicTriangles-mouse.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-6-DynamicTriangles-mouse.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-6-DynamicTriangles-mouse.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAIAwwJ0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:14:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "week2-5-Tetrahedron2.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-5-Tetrahedron2.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-5-Tetrahedron2.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-5-Tetrahedron2.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-5-Tetrahedron2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:10:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "week2-3-Sierpenski3.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-3-Sierpenski3.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-3-Sierpenski3.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-3-Sierpenski3.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-3-Sierpenski3.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:07:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "week2-2-Sierpenski2.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-2-Sierpenski2.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-2-Sierpenski2.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-2-Sierpenski2.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-2-Sierpenski2.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:03:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "week2-1-Triangles.cpp",
+              "DocumentMoniker": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-1-Triangles.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\week2-1-Triangles.cpp",
+              "ToolTip": "C:\\Users\\17842\\Github Projects\\OpenGL\\lab2\\OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate\\week2-1-Triangles.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\week2-1-Triangles.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T23:01:01.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
